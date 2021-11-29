@@ -1,0 +1,5 @@
+token.json
+__pycache__
+myvenv
+.env
+.DS_Store
